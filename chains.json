@@ -1,7 +1,7 @@
 {
     "ethereum": [
       {
-        "network": "mainnet",
+        "network": "ethereum-mainnet",
         "rpc": "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 1,
         "explorer": "https://etherscan.io",
@@ -48,7 +48,7 @@
     ],
     "polygon": [
       {
-        "network": "mainnet",
+        "network": "polygon-mainnet",
         "rpc": "https://polygon-rpc.com",
         "chainId": 137,
         "explorer": "https://polygonscan.com",
@@ -68,7 +68,7 @@
     ],
     "harmony": [
       {
-        "network": "mainnet",
+        "network": "harmony-mainnet",
         "rpc": "https://api.harmony.one",
         "chainId": 1666600000,
         "explorer": "https://explorer.harmony.one",
@@ -88,7 +88,7 @@
     ],
     "avalanche": [
       {
-        "network": "mainnet",
+        "network": "avalanche-mainnet",
         "rpc": "https://api.avax.network/ext/bc/C/rpc",
         "chainId": 43114,
         "explorer": "https://cchain.explorer.avax.network",
@@ -108,7 +108,7 @@
     ],
     "velas": [
       {
-        "network": "mainnet",
+        "network": "velas-mainnet",
         "rpc": "https://evmexplorer.velas.com/rpc",
         "chainId": 106,
         "explorer": "https://evmexplorer.velas.com",
@@ -128,7 +128,7 @@
     ],
     "bsc": [
       {
-        "network": "mainnet",
+        "network": "bsc-mainnet",
         "rpc": "https://bsc-dataseed.binance.org",
         "chainId": 56,
         "explorer": "https://testnet.bscscan.com",
