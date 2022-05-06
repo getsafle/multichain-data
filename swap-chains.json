@@ -1,0 +1,11 @@
+{
+    "chains": [
+    {
+       "name": "Ethereum",
+        "chainId": 1,
+        "nativeCurrency": "Ether",
+        "symbol": "ETH",
+        "imageURL": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+    }
+    ]
+}
