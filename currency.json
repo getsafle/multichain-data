@@ -1,774 +1,1082 @@
 {
-    "currencies": [
-    {
-      "Currency Code": "AED",
-      "Currency Name": "United Arab Emirates Dirham",
-      "Region": "UNITED ARAB EMIRATES"
-    },
-    {
-      "Currency Code": "AFN",
-      "Currency Name": "Afghani",
-      "Region": "AFGHANISTAN"
-    },
-    {
-      "Currency Code": "ALL",
-      "Currency Name": "Albanian Lek",
-      "Region": "ALBANIA"
-    },
-    {
-      "Currency Code": "AMD",
-      "Currency Name": "Armenian Dram",
-      "Region": "ARMENIA"
-    },
-    {
-      "Currency Code": "ANG",
-      "Currency Name": "Netherlands Antillean Guilder",
-      "Region": "CURACAO"
-    },
-    {
-      "Currency Code": "AOA",
-      "Currency Name": "Angolan Kwanza",
-      "Region": "ANGOLA"
-    },
-    {
-      "Currency Code": "ARS",
-      "Currency Name": "Argentine Peso",
-      "Region": "ARGENTINA"
-    },
-    {
-      "Currency Code": "AUD",
-      "Currency Name": "Australian Dollar",
-      "Region": "AUSTRALIA"
-    },
-    {
-      "Currency Code": "AWG",
-      "Currency Name": "Aruban Florin",
-      "Region": "ARUBA"
-    },
-    {
-      "Currency Code": "AZN",
-      "Currency Name": "Azerbaijanian Manat",
-      "Region": "AZERBAIJAN"
-    },
-    {
-      "Currency Code": "BAM",
-      "Currency Name": "Convertible Mark",
-      "Region": "BOSNIA AND HERZEGOVINA"
-    },
-    {
-      "Currency Code": "BBD",
-      "Currency Name": "Barbados Dollar",
-      "Region": "BARBADOS"
-    },
-    {
-      "Currency Code": "BDT",
-      "Currency Name": "Bangladeshi Taka",
-      "Region": "BANGLADESH"
-    },
-    {
-      "Currency Code": "BGN",
-      "Currency Name": "Bulgarian Lev",
-      "Region": "BULGARIA"
-    },
-    {
-      "Currency Code": "BHD",
-      "Currency Name": "Bahraini Dinar",
-      "Region": "BAHRAIN"
-    },
-    {
-      "Currency Code": "BIF",
-      "Currency Name": "Burundi Franc",
-      "Region": "BURUNDI"
-    },
-    {
-      "Currency Code": "BMD",
-      "Currency Name": "Bermudian Dollar",
-      "Region": "BERMUDA"
-    },
-    {
-      "Currency Code": "BND",
-      "Currency Name": "Brunei Dollar",
-      "Region": "BRUNEI DARUSSALAM"
-    },
-    {
-      "Currency Code": "BOB",
-      "Currency Name": "Boliviano",
-      "Region": "BOLIVIA"
-    },
-    {
-      "Currency Code": "BRL",
-      "Currency Name": "Brazilian Real",
-      "Region": "BRAZIL"
-    },
-    {
-      "Currency Code": "BSD",
-      "Currency Name": "Bahamian Dollar",
-      "Region": "BAHAMAS (THE)"
-    },
-    {
-      "Currency Code": "BTN",
-      "Currency Name": "Bhutanese Ngultrum",
-      "Region": "BHUTAN"
-    },
-    {
-      "Currency Code": "BWP",
-      "Currency Name": "Botswanan Pula",
-      "Region": "BOTSWANA"
-    },
-    {
-      "Currency Code": "BYR",
-      "Currency Name": "Belarussian Ruble",
-      "Region": "BELARUS"
-    },
-    {
-      "Currency Code": "BZD",
-      "Currency Name": "Belize Dollar",
-      "Region": "BELIZE"
-    },
-    {
-      "Currency Code": "CAD",
-      "Currency Name": "Canadian Dollar",
-      "Region": "CANADA"
-    },
-    {
-      "Currency Code": "CDF",
-      "Currency Name": "Congolese Franc",
-      "Region": "CONGO"
-    },
-    {
-      "Currency Code": "CHF",
-      "Currency Name": "Swiss Franc",
-      "Region": "SWITZERLAND"
-    },
-    {
-      "Currency Code": "CLP",
-      "Currency Name": "Chilean Peso",
-      "Region": "CHILE"
-    },
-    {
-      "Currency Code": "CNY",
-      "Currency Name": "Yuan Renminbi",
-      "Region": "CHINA"
-    },
-    {
-      "Currency Code": "COP",
-      "Currency Name": "Colombian Peso",
-      "Region": "COLOMBIA"
-    },
-    {
-      "Currency Code": "CRC",
-      "Currency Name": "Costa Rican Colon",
-      "Region": "COSTA RICA"
-    },
-    {
-      "Currency Code": "CUP",
-      "Currency Name": "Cuban Peso",
-      "Region": "CUBA"
-    },
-    {
-      "Currency Code": "CVE",
-      "Currency Name": "Cabo Verde Escudo",
-      "Region": "CABO VERDE"
-    },
-    {
-      "Currency Code": "CZK",
-      "Currency Name": "Czech Koruna",
-      "Region": "CZECH REPUBLIC (THE)"
-    },
-    {
-      "Currency Code": "DJF",
-      "Currency Name": "Djibouti Franc",
-      "Region": "DJIBOUTI"
-    },
-    {
-      "Currency Code": "DKK",
-      "Currency Name": "Danish Krone",
-      "Region": "DENMARK"
-    },
-    {
-      "Currency Code": "DOP",
-      "Currency Name": "Dominican Peso",
-      "Region": "DOMINICAN REPUBLIC (THE)"
-    },
-    {
-      "Currency Code": "DZD",
-      "Currency Name": "Algerian Dinar",
-      "Region": "ALGERIA"
-    },
-    {
-      "Currency Code": "EGP",
-      "Currency Name": "Egyptian Pound",
-      "Region": "EGYPT"
-    },
-    {
-      "Currency Code": "ERN",
-      "Currency Name": "Eritrean Nakfa",
-      "Region": "ERITREA"
-    },
-    {
-      "Currency Code": "ETB",
-      "Currency Name": "Ethiopian Birr",
-      "Region": "ETHIOPIA"
-    },
-    {
-      "Currency Code": "EUR",
-      "Currency Name": "Euro",
-      "Region": "EUROPEAN UNION"
-    },
-    {
-      "Currency Code": "FJD",
-      "Currency Name": "Fiji Dollar",
-      "Region": "FIJI"
-    },
-    {
-      "Currency Code": "FKP",
-      "Currency Name": "Falkland Islands Pound",
-      "Region": "FALKLAND ISLANDS"
-    },
-    {
-      "Currency Code": "GBP",
-      "Currency Name": "Pound Sterling",
-      "Region": "GUERNSEY"
-    },
-    {
-      "Currency Code": "GEL",
-      "Currency Name": "Georgian Lari",
-      "Region": "GEORGIA"
-    },
-    {
-      "Currency Code": "GHS",
-      "Currency Name": "Ghana Cedi",
-      "Region": "GHANA"
-    },
-    {
-      "Currency Code": "GIP",
-      "Currency Name": "Gibraltar Pound",
-      "Region": "GIBRALTAR"
-    },
-    {
-      "Currency Code": "GMD",
-      "Currency Name": "Gambian Dalasi",
-      "Region": "GAMBIA (THE)"
-    },
-    {
-      "Currency Code": "GNF",
-      "Currency Name": "Guinea Franc",
-      "Region": "GUINEA"
-    },
-    {
-      "Currency Code": "GTQ",
-      "Currency Name": "Guatemalan Quetzal",
-      "Region": "GUATEMALA"
-    },
-    {
-      "Currency Code": "GYD",
-      "Currency Name": "Guyana Dollar",
-      "Region": "GUYANA"
-    },
-    {
-      "Currency Code": "HKD",
-      "Currency Name": "Hong Kong Dollar",
-      "Region": "HONG KONG"
-    },
-    {
-      "Currency Code": "HNL",
-      "Currency Name": "Honduran Lempira",
-      "Region": "HONDURAS"
-    },
-    {
-      "Currency Code": "HRK",
-      "Currency Name": "Croatian Kuna",
-      "Region": "CROATIA"
-    },
-    {
-      "Currency Code": "HTG",
-      "Currency Name": "Haitian Gourde",
-      "Region": "HAITI"
-    },
-    {
-      "Currency Code": "HUF",
-      "Currency Name": "Hungarian Forint",
-      "Region": "HUNGARY"
-    },
-    {
-      "Currency Code": "IDR",
-      "Currency Name": "Indonesian Rupiah",
-      "Region": "INDONESIA"
-    },
-    {
-      "Currency Code": "ILS",
-      "Currency Name": "New Israeli Sheqel",
-      "Region": "ISRAEL"
-    },
-    {
-      "Currency Code": "INR",
-      "Currency Name": "Indian Rupee",
-      "Region": "INDIA"
-    },
-    {
-      "Currency Code": "IQD",
-      "Currency Name": "Iraqi Dinar",
-      "Region": "IRAQ"
-    },
-    {
-      "Currency Code": "IRR",
-      "Currency Name": "Iranian Rial",
-      "Region": "IRAN (ISLAMIC REPUBLIC OF)"
-    },
-    {
-      "Currency Code": "ISK",
-      "Currency Name": "Iceland Krona",
-      "Region": "ICELAND"
-    },
-    {
-      "Currency Code": "JMD",
-      "Currency Name": "Jamaican Dollar",
-      "Region": "JAMAICA"
-    },
-    {
-      "Currency Code": "JOD",
-      "Currency Name": "Jordanian Dinar",
-      "Region": "JORDAN"
-    },
-    {
-      "Currency Code": "JPY",
-      "Currency Name": "Japanese Yen",
-      "Region": "JAPAN"
-    },
-    {
-      "Currency Code": "KES",
-      "Currency Name": "Kenyan Shilling",
-      "Region": "KENYA"
-    },
-    {
-      "Currency Code": "KGS",
-      "Currency Name": "Kyrgystani Som",
-      "Region": "KYRGYZSTAN"
-    },
-    {
-      "Currency Code": "KHR",
-      "Currency Name": "Cambodian Riel",
-      "Region": "CAMBODIA"
-    },
-    {
-      "Currency Code": "KMF",
-      "Currency Name": "Comoro Franc",
-      "Region": "COMOROS (THE)"
-    },
-    {
-      "Currency Code": "KPW",
-      "Currency Name": "North Korean Won",
-      "Region": "KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF)"
-    },
-    {
-      "Currency Code": "KRW",
-      "Currency Name": "South Korean Won",
-      "Region": "KOREA (THE REPUBLIC OF)"
-    },
-    {
-      "Currency Code": "KWD",
-      "Currency Name": "Kuwaiti Dinar",
-      "Region": "KUWAIT"
-    },
-    {
-      "Currency Code": "KYD",
-      "Currency Name": "Cayman Islands Dollar",
-      "Region": "CAYMAN ISLANDS (THE)"
-    },
-    {
-      "Currency Code": "KZT",
-      "Currency Name": "Kazakhstani Tenge",
-      "Region": "KAZAKHSTAN"
-    },
-    {
-      "Currency Code": "LAK",
-      "Currency Name": "Laotian Kip",
-      "Region": "LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE)"
-    },
-    {
-      "Currency Code": "LBP",
-      "Currency Name": "Lebanese Pound",
-      "Region": "LEBANON"
-    },
-    {
-      "Currency Code": "LKR",
-      "Currency Name": "Sri Lanka Rupee",
-      "Region": "SRI LANKA"
-    },
-    {
-      "Currency Code": "LRD",
-      "Currency Name": "Liberian Dollar",
-      "Region": "LIBERIA"
-    },
-    {
-      "Currency Code": "LSL",
-      "Currency Name": "Lesotho Loti",
-      "Region": "LESOTHO"
-    },
-    {
-      "Currency Code": "LYD",
-      "Currency Name": "Libyan Dinar",
-      "Region": "LIBYA"
-    },
-    {
-      "Currency Code": "MAD",
-      "Currency Name": "Moroccan Dirham",
-      "Region": "MOROCCO"
-    },
-    {
-      "Currency Code": "MDL",
-      "Currency Name": "Moldovan Leu",
-      "Region": "MOLDOVA (THE REPUBLIC OF)"
-    },
-    {
-      "Currency Code": "MGA",
-      "Currency Name": "Malagasy Ariary",
-      "Region": "MADAGASCAR"
-    },
-    {
-      "Currency Code": "MKD",
-      "Currency Name": "Macedonian Denar",
-      "Region": "MACEDONIA"
-    },
-    {
-      "Currency Code": "MMK",
-      "Currency Name": "Myanma Kyat",
-      "Region": "MYANMAR"
-    },
-    {
-      "Currency Code": "MNT",
-      "Currency Name": "Mongolian Tugrik",
-      "Region": "MONGOLIA"
-    },
-    {
-      "Currency Code": "MOP",
-      "Currency Name": "Macanese Pataca",
-      "Region": "MACAO"
-    },
-    {
-      "Currency Code": "MUR",
-      "Currency Name": "Mauritius Rupee",
-      "Region": "MAURITIUS"
-    },
-    {
-      "Currency Code": "MVR",
-      "Currency Name": "Maldivian Rufiyaa",
-      "Region": "MALDIVES"
-    },
-    {
-      "Currency Code": "MWK",
-      "Currency Name": "Malawian Kwacha",
-      "Region": "MALAWI"
-    },
-    {
-      "Currency Code": "MXN",
-      "Currency Name": "Mexican Peso",
-      "Region": "MEXICO"
-    },
-    {
-      "Currency Code": "MYR",
-      "Currency Name": "Malaysian Ringgit",
-      "Region": "MALAYSIA"
-    },
-    {
-      "Currency Code": "MZN",
-      "Currency Name": "Mozambique Metical",
-      "Region": "MOZAMBIQUE"
-    },
-    {
-      "Currency Code": "NAD",
-      "Currency Name": "Namibia Dollar",
-      "Region": "NAMIBIA"
-    },
-    {
-      "Currency Code": "NGN",
-      "Currency Name": "Nigerian Naira",
-      "Region": "NIGERIA"
-    },
-    {
-      "Currency Code": "NIO",
-      "Currency Name": "Cordoba Oro",
-      "Region": "NICARAGUA"
-    },
-    {
-      "Currency Code": "NOK",
-      "Currency Name": "Norwegian Krone",
-      "Region": "NORWAY"
-    },
-    {
-      "Currency Code": "NPR",
-      "Currency Name": "Nepalese Rupee",
-      "Region": "NEPAL"
-    },
-    {
-      "Currency Code": "NZD",
-      "Currency Name": "New Zealand Dollar",
-      "Region": "NEW ZEALAND"
-    },
-    {
-      "Currency Code": "OMR",
-      "Currency Name": "Rial Omani",
-      "Region": "OMAN"
-    },
-    {
-      "Currency Code": "PAB",
-      "Currency Name": "Panamanian Balboa",
-      "Region": "PANAMA"
-    },
-    {
-      "Currency Code": "PEN",
-      "Currency Name": "Peruvian Nuevo Sol",
-      "Region": "PERU"
-    },
-    {
-      "Currency Code": "PGK",
-      "Currency Name": "Papua Kina",
-      "Region": "PAPUA NEW GUINEA"
-    },
-    {
-      "Currency Code": "PHP",
-      "Currency Name": "Philippine Peso",
-      "Region": "PHILIPPINES (THE)"
-    },
-    {
-      "Currency Code": "PKR",
-      "Currency Name": "Pakistan Rupee",
-      "Region": "PAKISTAN"
-    },
-    {
-      "Currency Code": "PLN",
-      "Currency Name": "Polish Zloty",
-      "Region": "POLAND"
-    },
-    {
-      "Currency Code": "PYG",
-      "Currency Name": "Paraguayan Guarani",
-      "Region": "PARAGUAY"
-    },
-    {
-      "Currency Code": "QAR",
-      "Currency Name": "Qatari Rial",
-      "Region": "QATAR"
-    },
-    {
-      "Currency Code": "RON",
-      "Currency Name": "Romanian Leu",
-      "Region": "ROMANIA"
-    },
-    {
-      "Currency Code": "RSD",
-      "Currency Name": "Serbian Dinar",
-      "Region": "SERBIA"
-    },
-    {
-      "Currency Code": "RUB",
-      "Currency Name": "Russian Ruble",
-      "Region": "RUSSIAN FEDERATION (THE)"
-    },
-    {
-      "Currency Code": "RWF",
-      "Currency Name": "Rwanda Franc",
-      "Region": "RWANDA"
-    },
-    {
-      "Currency Code": "SAR",
-      "Currency Name": "Saudi Riyal",
-      "Region": "SAUDI ARABIA"
-    },
-    {
-      "Currency Code": "SBD",
-      "Currency Name": "Solomon Islands Dollar",
-      "Region": "SOLOMON ISLANDS"
-    },
-    {
-      "Currency Code": "SCR",
-      "Currency Name": "Seychelles Rupee",
-      "Region": "SEYCHELLES"
-    },
-    {
-      "Currency Code": "SDG",
-      "Currency Name": "Sudanese Pound",
-      "Region": "SUDAN (THE)"
-    },
-    {
-      "Currency Code": "SEK",
-      "Currency Name": "Swedish Krona",
-      "Region": "SWEDEN"
-    },
-    {
-      "Currency Code": "SGD",
-      "Currency Name": "Singapore Dollar",
-      "Region": "SINGAPORE"
-    },
-    {
-      "Currency Code": "SHP",
-      "Currency Name": "Saint Helena Pound",
-      "Region": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
-    },
-    {
-      "Currency Code": "SLL",
-      "Currency Name": "Leone",
-      "Region": "SIERRA LEONE"
-    },
-    {
-      "Currency Code": "SOS",
-      "Currency Name": "Somali Shilling",
-      "Region": "SOMALIA"
-    },
-    {
-      "Currency Code": "SRD",
-      "Currency Name": "Surinam Dollar",
-      "Region": "SURINAME"
-    },
-    {
-      "Currency Code": "SVC",
-      "Currency Name": "El Salvador Colon",
-      "Region": "EL SALVADOR"
-    },
-    {
-      "Currency Code": "SYP",
-      "Currency Name": "Syrian Pound",
-      "Region": "SYRIAN ARAB REPUBLIC"
-    },
-    {
-      "Currency Code": "SZL",
-      "Currency Name": "Swazi Lilangeni",
-      "Region": "SWAZILAND"
-    },
-    {
-      "Currency Code": "THB",
-      "Currency Name": "Thai Baht",
-      "Region": "THAILAND"
-    },
-    {
-      "Currency Code": "TJS",
-      "Currency Name": "Tajikistani Somoni",
-      "Region": "TAJIKISTAN"
-    },
-    {
-      "Currency Code": "TMT",
-      "Currency Name": "Turkmenistan New Manat",
-      "Region": "TURKMENISTAN"
-    },
-    {
-      "Currency Code": "TND",
-      "Currency Name": "Tunisian Dinar",
-      "Region": "TUNISIA"
-    },
-    {
-      "Currency Code": "TOP",
-      "Currency Name": "Tongan Paʻanga",
-      "Region": "TONGA"
-    },
-    {
-      "Currency Code": "TRY",
-      "Currency Name": "Turkish Lira",
-      "Region": "TURKEY"
-    },
-    {
-      "Currency Code": "TTD",
-      "Currency Name": "Trinidad and Tobago Dollar",
-      "Region": "TRINIDAD AND TOBAGO"
-    },
-    {
-      "Currency Code": "TWD",
-      "Currency Name": "New Taiwan Dollar",
-      "Region": "TAIWAN (PROVINCE OF CHINA)"
-    },
-    {
-      "Currency Code": "TZS",
-      "Currency Name": "Tanzanian Shilling",
-      "Region": "TANZANIA, UNITED REPUBLIC OF"
-    },
-    {
-      "Currency Code": "UAH",
-      "Currency Name": "Ukrainian Hryvnia",
-      "Region": "UKRAINE"
-    },
-    {
-      "Currency Code": "UGX",
-      "Currency Name": "Uganda Shilling",
-      "Region": "UGANDA"
-    },
-    {
-      "Currency Code": "USD",
-      "Currency Name": "US Dollar",
-      "Region": "UNITED STATES OF AMERICA"
-    },
-    {
-      "Currency Code": "UYU",
-      "Currency Name": "Peso Uruguayo",
-      "Region": "URUGUAY"
-    },
-    {
-      "Currency Code": "UZS",
-      "Currency Name": "Uzbekistan Sum",
-      "Region": "UZBEKISTAN"
-    },
-    {
-      "Currency Code": "VEF",
-      "Currency Name": "Venezuelan Bolivar",
-      "Region": "VENEZUELA (BOLIVARIAN REPUBLIC OF)"
-    },
-    {
-      "Currency Code": "VND",
-      "Currency Name": "Vietnamese Dong",
-      "Region": "VIET NAM"
-    },
-    {
-      "Currency Code": "VUV",
-      "Currency Name": "Vanuatu Vatu",
-      "Region": "VANUATU"
-    },
-    {
-      "Currency Code": "WST",
-      "Currency Name": "Samoan Tala",
-      "Region": "SAMOA"
-    },
-    {
-      "Currency Code": "XAF",
-      "Currency Name": "CFA Franc BEAC",
-      "Region": "CENTRAL AFRICAN"
-    },
-    {
-      "Currency Code": "XCD",
-      "Currency Name": "East Caribbean Dollar",
-      "Region": "EASTERN CARIBBEAN STATES"
-    },
-    {
-      "Currency Code": "XDR",
-      "Currency Name": "SDR (Special Drawing Right)",
-      "Region": "INTERNATIONAL MONETARY FUND (IMF)"
-    },
-    {
-      "Currency Code": "XOF",
-      "Currency Name": "CFA Franc BCEAO",
-      "Region": "WEST AFRICAN"
-    },
-    {
-      "Currency Code": "XPF",
-      "Currency Name": "CFP Franc",
-      "Region": "FRENCH COLONIES OF THE PACIFIC"
-    },
-    {
-      "Currency Code": "YER",
-      "Currency Name": "Yemeni Rial",
-      "Region": "YEMEN"
-    },
-    {
-      "Currency Code": "ZAR",
-      "Currency Name": "South African Rand",
-      "Region": "SOUTH AFRICA"
-    },
-    {
-      "Currency Code": "ZMW",
-      "Currency Name": "Zambian Kwacha",
-      "Region": "ZAMBIA"
-    },
-    {
-      "Currency Code": "ZWL",
-      "Currency Name": "Zimbabwe Dollar",
-      "Region": "ZIMBABWE"
-    }
-  ]
+  "currencies": [
+  {
+     "Currency Code":"AED",
+     "Currency Name":"United Arab Emirates Dirham",
+     "Region":"UNITED ARAB EMIRATES",
+     "flag":"https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+     "Currency Symbol":"د.إ",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"AFN",
+     "Currency Name":"Afghani",
+     "Region":"AFGHANISTAN",
+     "Currency Symbol":"؋",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ALL",
+     "Currency Name":"Albanian Lek",
+     "Region":"ALBANIA",
+     "Currency Symbol":"L",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"AMD",
+     "Currency Name":"Armenian Dram",
+     "Region":"ARMENIA",
+     "Currency Symbol":"֏",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ANG",
+     "Currency Name":"Netherlands Antillean Guilder",
+     "Region":"CURACAO",
+     "Currency Symbol":"ƒ",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"AOA",
+     "Currency Name":"Angolan Kwanza",
+     "Region":"ANGOLA",
+     "Currency Symbol":"Kz",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ARS",
+     "Currency Name":"Argentine Peso",
+     "Region":"ARGENTINA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"AUD",
+     "Currency Name":"Australian Dollar",
+     "Region":"AUSTRALIA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"AWG",
+     "Currency Name":"Aruban Florin",
+     "Region":"ARUBA",
+     "Currency Symbol":"ƒ",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"AZN",
+     "Currency Name":"Azerbaijanian Manat",
+     "Region":"AZERBAIJAN",
+     "Currency Symbol":"₼",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BAM",
+     "Currency Name":"Convertible Mark",
+     "Region":"BOSNIA AND HERZEGOVINA",
+     "Currency Symbol":"KM",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BBD",
+     "Currency Name":"Barbados Dollar",
+     "Region":"BARBADOS",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BDT",
+     "Currency Name":"Bangladeshi Taka",
+     "Region":"BANGLADESH",
+     "Currency Symbol":"৳",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BGN",
+     "Currency Name":"Bulgarian Lev",
+     "Region":"BULGARIA",
+     "Currency Symbol":"лв",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BHD",
+     "Currency Name":"Bahraini Dinar",
+     "Region":"BAHRAIN",
+     "Currency Symbol":".د.ب",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BIF",
+     "Currency Name":"Burundi Franc",
+     "Region":"BURUNDI",
+     "Currency Symbol":"FBu",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BMD",
+     "Currency Name":"Bermudian Dollar",
+     "Region":"BERMUDA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BND",
+     "Currency Name":"Brunei Dollar",
+     "Region":"BRUNEI DARUSSALAM",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BOB",
+     "Currency Name":"Boliviano",
+     "Region":"BOLIVIA",
+     "Currency Symbol":"$b",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BRL",
+     "Currency Name":"Brazilian Real",
+     "Region":"BRAZIL",
+     "Currency Symbol":"R$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BSD",
+     "Currency Name":"Bahamian Dollar",
+     "Region":"BAHAMAS (THE)",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BTN",
+     "Currency Name":"Bhutanese Ngultrum",
+     "Region":"BHUTAN",
+     "Currency Symbol":"Nu.",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BWP",
+     "Currency Name":"Botswanan Pula",
+     "Region":"BOTSWANA",
+     "Currency Symbol":"P",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BYR",
+     "Currency Name":"Belarussian Ruble",
+     "Region":"BELARUS",
+     "Currency Symbol":"Br",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"BZD",
+     "Currency Name":"Belize Dollar",
+     "Region":"BELIZE",
+     "Currency Symbol":"BZ$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CAD",
+     "Currency Name":"Canadian Dollar",
+     "Region":"CANADA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CDF",
+     "Currency Name":"Congolese Franc",
+     "Region":"CONGO",
+     "Currency Symbol":"FC",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CHF",
+     "Currency Name":"Swiss Franc",
+     "Region":"SWITZERLAND",
+     "Currency Symbol":"CHF",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CLP",
+     "Currency Name":"Chilean Peso",
+     "Region":"CHILE",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CNY",
+     "Currency Name":"Yuan Renminbi",
+     "Region":"CHINA",
+     "Currency Symbol":"¥",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"COP",
+     "Currency Name":"Colombian Peso",
+     "Region":"COLOMBIA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CRC",
+     "Currency Name":"Costa Rican Colon",
+     "Region":"COSTA RICA",
+     "Currency Symbol":"₡",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CUP",
+     "Currency Name":"Cuban Peso",
+     "Region":"CUBA",
+     "Currency Symbol":"₱",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CVE",
+     "Currency Name":"Cabo Verde Escudo",
+     "Region":"CABO VERDE",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"CZK",
+     "Currency Name":"Czech Koruna",
+     "Region":"CZECH REPUBLIC (THE)",
+     "Currency Symbol":"Kč",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"DJF",
+     "Currency Name":"Djibouti Franc",
+     "Region":"DJIBOUTI",
+     "Currency Symbol":"Fdj",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"DKK",
+     "Currency Name":"Danish Krone",
+     "Region":"DENMARK",
+     "Currency Symbol":"kr",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"DOP",
+     "Currency Name":"Dominican Peso",
+     "Region":"DOMINICAN REPUBLIC (THE)",
+     "Currency Symbol":"RD$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"DZD",
+     "Currency Name":"Algerian Dinar",
+     "Region":"ALGERIA",
+     "Currency Symbol":"دج",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"EGP",
+     "Currency Name":"Egyptian Pound",
+     "Region":"EGYPT",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ERN",
+     "Currency Name":"Eritrean Nakfa",
+     "Region":"ERITREA",
+     "Currency Symbol":"Nfk",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ETB",
+     "Currency Name":"Ethiopian Birr",
+     "Region":"ETHIOPIA",
+     "Currency Symbol":"Br",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"EUR",
+     "Currency Name":"Euro",
+     "Region":"EUROPEAN UNION",
+     "Currency Symbol":"€",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"FJD",
+     "Currency Name":"Fiji Dollar",
+     "Region":"FIJI",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"FKP",
+     "Currency Name":"Falkland Islands Pound",
+     "Region":"FALKLAND ISLANDS",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GBP",
+     "Currency Name":"Pound Sterling",
+     "Region":"GUERNSEY",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GEL",
+     "Currency Name":"Georgian Lari",
+     "Region":"GEORGIA",
+     "Currency Symbol":"₾",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GHS",
+     "Currency Name":"Ghana Cedi",
+     "Region":"GHANA",
+     "Currency Symbol":"GH₵",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GIP",
+     "Currency Name":"Gibraltar Pound",
+     "Region":"GIBRALTAR",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GMD",
+     "Currency Name":"Gambian Dalasi",
+     "Region":"GAMBIA (THE)",
+     "Currency Symbol":"D",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GNF",
+     "Currency Name":"Guinea Franc",
+     "Region":"GUINEA",
+     "Currency Symbol":"FG",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GTQ",
+     "Currency Name":"Guatemalan Quetzal",
+     "Region":"GUATEMALA",
+     "Currency Symbol":"Q",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"GYD",
+     "Currency Name":"Guyana Dollar",
+     "Region":"GUYANA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"HKD",
+     "Currency Name":"Hong Kong Dollar",
+     "Region":"HONG KONG",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"HNL",
+     "Currency Name":"Honduran Lempira",
+     "Region":"HONDURAS",
+     "Currency Symbol":"L",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"HRK",
+     "Currency Name":"Croatian Kuna",
+     "Region":"CROATIA",
+     "Currency Symbol":"kn",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"HTG",
+     "Currency Name":"Haitian Gourde",
+     "Region":"HAITI",
+     "Currency Symbol":"G",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"HUF",
+     "Currency Name":"Hungarian Forint",
+     "Region":"HUNGARY",
+     "Currency Symbol":"Ft",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"IDR",
+     "Currency Name":"Indonesian Rupiah",
+     "Region":"INDONESIA",
+     "Currency Symbol":"Rp",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ILS",
+     "Currency Name":"New Israeli Sheqel",
+     "Region":"ISRAEL",
+     "Currency Symbol":"₪",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"INR",
+     "Currency Name":"Indian Rupee",
+     "Region":"INDIA",
+     "Currency Symbol":"₹",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"IQD",
+     "Currency Name":"Iraqi Dinar",
+     "Region":"IRAQ",
+     "Currency Symbol":"ع.د",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"IRR",
+     "Currency Name":"Iranian Rial",
+     "Region":"IRAN (ISLAMIC REPUBLIC OF)",
+     "Currency Symbol":"﷼",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ISK",
+     "Currency Name":"Iceland Krona",
+     "Region":"ICELAND",
+     "Currency Symbol":"kr",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"JMD",
+     "Currency Name":"Jamaican Dollar",
+     "Region":"JAMAICA",
+     "Currency Symbol":"J$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"JOD",
+     "Currency Name":"Jordanian Dinar",
+     "Region":"JORDAN",
+     "Currency Symbol":"JD",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"JPY",
+     "Currency Name":"Japanese Yen",
+     "Region":"JAPAN",
+     "Currency Symbol":"¥",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KES",
+     "Currency Name":"Kenyan Shilling",
+     "Region":"KENYA",
+     "Currency Symbol":"KSh",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KGS",
+     "Currency Name":"Kyrgystani Som",
+     "Region":"KYRGYZSTAN",
+     "Currency Symbol":"лв",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KHR",
+     "Currency Name":"Cambodian Riel",
+     "Region":"CAMBODIA",
+     "Currency Symbol":"៛",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KMF",
+     "Currency Name":"Comoro Franc",
+     "Region":"COMOROS (THE)",
+     "Currency Symbol":"CF",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KPW",
+     "Currency Name":"North Korean Won",
+     "Region":"KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF)",
+     "Currency Symbol":"₩",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KRW",
+     "Currency Name":"South Korean Won",
+     "Region":"KOREA (THE REPUBLIC OF)",
+     "Currency Symbol":"₩",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KWD",
+     "Currency Name":"Kuwaiti Dinar",
+     "Region":"KUWAIT",
+     "Currency Symbol":"KD",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KYD",
+     "Currency Name":"Cayman Islands Dollar",
+     "Region":"CAYMAN ISLANDS (THE)",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"KZT",
+     "Currency Name":"Kazakhstani Tenge",
+     "Region":"KAZAKHSTAN",
+     "Currency Symbol":"₸",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"LAK",
+     "Currency Name":"Laotian Kip",
+     "Region":"LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE)",
+     "Currency Symbol":"₭",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"LBP",
+     "Currency Name":"Lebanese Pound",
+     "Region":"LEBANON",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"LKR",
+     "Currency Name":"Sri Lanka Rupee",
+     "Region":"SRI LANKA",
+     "Currency Symbol":"₨",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"LRD",
+     "Currency Name":"Liberian Dollar",
+     "Region":"LIBERIA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"LSL",
+     "Currency Name":"Lesotho Loti",
+     "Region":"LESOTHO",
+     "Currency Symbol":"M",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"LYD",
+     "Currency Name":"Libyan Dinar",
+     "Region":"LIBYA",
+     "Currency Symbol":"LD",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MAD",
+     "Currency Name":"Moroccan Dirham",
+     "Region":"MOROCCO",
+     "Currency Symbol":"MAD",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MDL",
+     "Currency Name":"Moldovan Leu",
+     "Region":"MOLDOVA (THE REPUBLIC OF)",
+     "Currency Symbol":"lei",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MGA",
+     "Currency Name":"Malagasy Ariary",
+     "Region":"MADAGASCAR",
+     "Currency Symbol":"Ar",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MKD",
+     "Currency Name":"Macedonian Denar",
+     "Region":"MACEDONIA",
+     "Currency Symbol":"ден",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MMK",
+     "Currency Name":"Myanma Kyat",
+     "Region":"MYANMAR",
+     "Currency Symbol":"K",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MNT",
+     "Currency Name":"Mongolian Tugrik",
+     "Region":"MONGOLIA",
+     "Currency Symbol":"₮",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MOP",
+     "Currency Name":"Macanese Pataca",
+     "Region":"MACAO",
+     "Currency Symbol":"MOP$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MUR",
+     "Currency Name":"Mauritius Rupee",
+     "Region":"MAURITIUS",
+     "Currency Symbol":"₨",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MVR",
+     "Currency Name":"Maldivian Rufiyaa",
+     "Region":"MALDIVES",
+     "Currency Symbol":"Rf",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MWK",
+     "Currency Name":"Malawian Kwacha",
+     "Region":"MALAWI",
+     "Currency Symbol":"MK",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MXN",
+     "Currency Name":"Mexican Peso",
+     "Region":"MEXICO",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MYR",
+     "Currency Name":"Malaysian Ringgit",
+     "Region":"MALAYSIA",
+     "Currency Symbol":"RM",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"MZN",
+     "Currency Name":"Mozambique Metical",
+     "Region":"MOZAMBIQUE",
+     "Currency Symbol":"MT",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"NAD",
+     "Currency Name":"Namibia Dollar",
+     "Region":"NAMIBIA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"NGN",
+     "Currency Name":"Nigerian Naira",
+     "Region":"NIGERIA",
+     "Currency Symbol":"₦",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"NIO",
+     "Currency Name":"Cordoba Oro",
+     "Region":"NICARAGUA",
+     "Currency Symbol":"C$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"NOK",
+     "Currency Name":"Norwegian Krone",
+     "Region":"NORWAY",
+     "Currency Symbol":"kr",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"NPR",
+     "Currency Name":"Nepalese Rupee",
+     "Region":"NEPAL",
+     "Currency Symbol":"₨",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"NZD",
+     "Currency Name":"New Zealand Dollar",
+     "Region":"NEW ZEALAND",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"OMR",
+     "Currency Name":"Rial Omani",
+     "Region":"OMAN",
+     "Currency Symbol":"﷼",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PAB",
+     "Currency Name":"Panamanian Balboa",
+     "Region":"PANAMA",
+     "Currency Symbol":"B/.",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PEN",
+     "Currency Name":"Peruvian Nuevo Sol",
+     "Region":"PERU",
+     "Currency Symbol":"S/.",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PGK",
+     "Currency Name":"Papua Kina",
+     "Region":"PAPUA NEW GUINEA",
+     "Currency Symbol":"K",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PHP",
+     "Currency Name":"Philippine Peso",
+     "Region":"PHILIPPINES (THE)",
+     "Currency Symbol":"₱",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PKR",
+     "Currency Name":"Pakistan Rupee",
+     "Region":"PAKISTAN",
+     "Currency Symbol":"₨",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PLN",
+     "Currency Name":"Polish Zloty",
+     "Region":"POLAND",
+     "Currency Symbol":"zł",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"PYG",
+     "Currency Name":"Paraguayan Guarani",
+     "Region":"PARAGUAY",
+     "Currency Symbol":"Gs",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"QAR",
+     "Currency Name":"Qatari Rial",
+     "Region":"QATAR",
+     "Currency Symbol":"﷼",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"RON",
+     "Currency Name":"Romanian Leu",
+     "Region":"ROMANIA",
+     "Currency Symbol":"lei",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"RSD",
+     "Currency Name":"Serbian Dinar",
+     "Region":"SERBIA",
+     "Currency Symbol":"Дин.",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"RUB",
+     "Currency Name":"Russian Ruble",
+     "Region":"RUSSIAN FEDERATION (THE)",
+     "Currency Symbol":"₽",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"RWF",
+     "Currency Name":"Rwanda Franc",
+     "Region":"RWANDA",
+     "Currency Symbol":"R₣",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SAR",
+     "Currency Name":"Saudi Riyal",
+     "Region":"SAUDI ARABIA",
+     "Currency Symbol":"﷼",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SBD",
+     "Currency Name":"Solomon Islands Dollar",
+     "Region":"SOLOMON ISLANDS",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SCR",
+     "Currency Name":"Seychelles Rupee",
+     "Region":"SEYCHELLES",
+     "Currency Symbol":"₨",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SDG",
+     "Currency Name":"Sudanese Pound",
+     "Region":"SUDAN (THE)",
+     "Currency Symbol":"ج.س.",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SEK",
+     "Currency Name":"Swedish Krona",
+     "Region":"SWEDEN",
+     "Currency Symbol":"kr",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SGD",
+     "Currency Name":"Singapore Dollar",
+     "Region":"SINGAPORE",
+     "Currency Symbol":"S$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SHP",
+     "Currency Name":"Saint Helena Pound",
+     "Region":"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SLL",
+     "Currency Name":"Leone",
+     "Region":"SIERRA LEONE",
+     "Currency Symbol":"Le",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SOS",
+     "Currency Name":"Somali Shilling",
+     "Region":"SOMALIA",
+     "Currency Symbol":"S",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SRD",
+     "Currency Name":"Surinam Dollar",
+     "Region":"SURINAME",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SVC",
+     "Currency Name":"El Salvador Colon",
+     "Region":"EL SALVADOR",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SYP",
+     "Currency Name":"Syrian Pound",
+     "Region":"SYRIAN ARAB REPUBLIC",
+     "Currency Symbol":"£",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"SZL",
+     "Currency Name":"Swazi Lilangeni",
+     "Region":"SWAZILAND",
+     "Currency Symbol":"E",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"THB",
+     "Currency Name":"Thai Baht",
+     "Region":"THAILAND",
+     "Currency Symbol":"฿",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TJS",
+     "Currency Name":"Tajikistani Somoni",
+     "Region":"TAJIKISTAN",
+     "Currency Symbol":"SM",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TMT",
+     "Currency Name":"Turkmenistan New Manat",
+     "Region":"TURKMENISTAN",
+     "Currency Symbol":"T",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TND",
+     "Currency Name":"Tunisian Dinar",
+     "Region":"TUNISIA",
+     "Currency Symbol":"د.ت",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TOP",
+     "Currency Name":"Tongan Paʻanga",
+     "Region":"TONGA",
+     "Currency Symbol":"T$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TRY",
+     "Currency Name":"Turkish Lira",
+     "Region":"TURKEY",
+     "Currency Symbol":"₺",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TTD",
+     "Currency Name":"Trinidad and Tobago Dollar",
+     "Region":"TRINIDAD AND TOBAGO",
+     "Currency Symbol":"TT$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TWD",
+     "Currency Name":"New Taiwan Dollar",
+     "Region":"TAIWAN (PROVINCE OF CHINA)",
+     "Currency Symbol":"NT$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"TZS",
+     "Currency Name":"Tanzanian Shilling",
+     "Region":"TANZANIA, UNITED REPUBLIC OF",
+     "Currency Symbol":"TSh",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"UAH",
+     "Currency Name":"Ukrainian Hryvnia",
+     "Region":"UKRAINE",
+     "Currency Symbol":"₴",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"UGX",
+     "Currency Name":"Uganda Shilling",
+     "Region":"UGANDA",
+     "Currency Symbol":"USh",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"USD",
+     "Currency Name":"US Dollar",
+     "Region":"UNITED STATES OF AMERICA",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"UYU",
+     "Currency Name":"Peso Uruguayo",
+     "Region":"URUGUAY",
+     "Currency Symbol":"$U",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"UZS",
+     "Currency Name":"Uzbekistan Sum",
+     "Region":"UZBEKISTAN",
+     "Currency Symbol":"лв",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"VEF",
+     "Currency Name":"Venezuelan Bolivar",
+     "Region":"VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+     "Currency Symbol":"Bs",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"VND",
+     "Currency Name":"Vietnamese Dong",
+     "Region":"VIET NAM",
+     "Currency Symbol":"₫",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"VUV",
+     "Currency Name":"Vanuatu Vatu",
+     "Region":"VANUATU",
+     "Currency Symbol":"VT",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"WST",
+     "Currency Name":"Samoan Tala",
+     "Region":"SAMOA",
+     "Currency Symbol":"WS$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"XAF",
+     "Currency Name":"CFA Franc BEAC",
+     "Region":"CENTRAL AFRICAN",
+     "Currency Symbol":"FCFA",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"XCD",
+     "Currency Name":"East Caribbean Dollar",
+     "Region":"EASTERN CARIBBEAN STATES",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"XDR",
+     "Currency Name":"SDR (Special Drawing Right)",
+     "Region":"INTERNATIONAL MONETARY FUND (IMF)",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"XOF",
+     "Currency Name":"CFA Franc BCEAO",
+     "Region":"WEST AFRICAN",
+     "Currency Symbol":"CFA",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"XPF",
+     "Currency Name":"CFP Franc",
+     "Region":"FRENCH COLONIES OF THE PACIFIC",
+     "Currency Symbol":"₣",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"YER",
+     "Currency Name":"Yemeni Rial",
+     "Region":"YEMEN",
+     "Currency Symbol":"﷼",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ZAR",
+     "Currency Name":"South African Rand",
+     "Region":"SOUTH AFRICA",
+     "Currency Symbol":"R",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ZMW",
+     "Currency Name":"Zambian Kwacha",
+     "Region":"ZAMBIA",
+     "Currency Symbol":"ZK",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  },
+  {
+     "Currency Code":"ZWL",
+     "Currency Name":"Zimbabwe Dollar",
+     "Region":"ZIMBABWE",
+     "Currency Symbol":"$",
+     "Country Flag":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+  }
+]
 }
