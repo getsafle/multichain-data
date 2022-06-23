@@ -46,7 +46,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+      "logoURI": "https://github.com/MetaMask/contract-metadata/blob/master/images/uni.svg"
     },
     {
       "name": "Tether USD",
