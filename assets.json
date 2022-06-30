@@ -2,6 +2,11 @@
     "chains": {
         "ethereum": {
             "SINGLE_CALL_BALANCES_ADDRESS": "0xb1f8e55c7f64d203c1400b9d8555d050f94adf39",
+            "COIN":{
+               "name": "Ether",
+               "symbol": "ETH",
+               "logo": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+            },
             "CONTRACT_MAP" : {
                "0xEd04915c23f00A313a544955524EB7DBD823143d":{
                   "name":"Alchemy Pay",
@@ -3700,6 +3705,11 @@
             }
       },
         "polygon": {
+         "COIN":{
+            "name": "Matic",
+            "symbol": "MATIC",
+            "logo": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
+         },
             "SINGLE_CALL_BALANCES_ADDRESS": "0x38a2718e3dff5faee56416ba0b14aae8eb803c22",
             "CONTRACT_MAP": {
                 "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
@@ -3832,6 +3842,11 @@
         },
         "bsc": {
             "SINGLE_CALL_BALANCES_ADDRESS": "0xdB84875485b7bdF983dFAa0852F1BFDa620AaCcA",
+            "COIN":{
+               "name": "BNB",
+               "symbol": "BNB",
+               "logo": "https://assets.coingecko.com/coins/images/13804/large/Binnace.png"
+             },
             "CONTRACT_MAP": {
                 "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": {
                     "name": "Binance-Peg BUSD Token",
@@ -4184,11 +4199,19 @@
                     "decimals": 18
                 }
             }
+        },
+        "bitcoin":{
+         "COIN":{
+            "name": "BITCOIN",
+            "symbol": "BTC",
+            "logo": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=022"
+          },
         }
     },
     "supportedChains": [
         "ethereum",
         "polygon",
-        "bsc"
+        "bsc", 
+        "bitcoin"
     ]
 }
