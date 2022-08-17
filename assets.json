@@ -3701,7 +3701,82 @@
           "erc20": true,
           "symbol": "XTM",
           "decimals": 18
-        }
+        },
+        "0xfF20817765cB7f73d4bde2e66e067E58D11095C2": {
+          "name": "AMP Token",
+          "logo": "https://etherscan.io/token/images/amp_32.png?v=2",
+          "erc20": true,
+          "symbol": "AMP",
+          "decimals": 18
+        },
+        "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA": {
+          "name": "GALA Token",
+          "logo": "https://etherscan.io/token/images/gala_32.png?v=2",
+          "erc20": true,
+          "symbol": "GALA",
+          "decimals": 8
+        },
+        "0x0316EB71485b0Ab14103307bf65a021042c6d380": {
+          "name": "Huobi BTC",
+          "logo": "https://etherscan.io/token/images/huobibtc_32.png",
+          "erc20": true,
+          "symbol": "HBTC",
+          "decimals": 18
+      },
+      "0xFd09Cf7cFffa9932e33668311C4777Cb9db3c9Be": {
+        "name": "Wrapped Decentraland MANA",
+        "erc20": true,
+        "symbol": "WMANA",
+        "decimals": 18
+      },
+      "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3": {
+        "name": "Bitfinex LEO Token",
+        "logo": "https://etherscan.io/token/images/leo_28_2.png",
+        "erc20": true,
+        "symbol": "LEO",
+        "decimals": 18
+      },
+      "0x75231F58b43240C9718Dd58B4967c5114342a86c": {
+        "name": "OKB token",
+        "logo": "https://etherscan.io/token/images/okex_28.png",
+        "erc20": true,
+        "symbol": "OKB",
+        "decimals": 18
+      },
+      "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18": {
+        "name": "Chain",
+        "logo": "https://etherscan.io/token/images/chainchn_32.png",
+        "erc20": true,
+        "symbol": "XCN",
+        "decimals": 18
+      },
+      "0xC669928185DbCE49d2230CC9B0979BE6DC797957": {
+        "name": "BitTorrent",
+        "logo": "https://etherscan.io/token/images/bittorrent_32.png",
+        "erc20": true,
+        "symbol": "BTT",
+        "decimals": 18
+      },
+      "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6": {
+        "name": "Decentralized USD",
+        "logo": "https://etherscan.io/token/images/usdd-tron_32.png",
+        "erc20": true,
+        "symbol": "UsDD",
+        "decimals": 18
+      },
+      "0x3506424F91fD33084466F402d5D97f05F8e3b4AF": {
+        "name": "ChiliZ",
+        "logo": "https://etherscan.io/token/images/chiliz_28.png",
+        "erc20": true,
+        "symbol": "CHZ",
+        "decimals": 18
+      },
+      "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5": {
+        "name": "BitDAO",
+        "logo": "https://etherscan.io/token/images/bitdao_32.png?=v97",
+        "erc20": true,
+        "symbol": "BIT",
+        "decimals": 18
       }
     },
     "polygon": {
