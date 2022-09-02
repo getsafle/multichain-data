@@ -3795,13 +3795,6 @@
           "symbol": "WETH",
           "decimals": 18
         },
-        "0x0000000000000000000000000000000000001010": {
-          "name": "Matic Token",
-          "logo": "https://wallet-asset.matic.network/img/tokens/matic.svg",
-          "erc20": true,
-          "symbol": "MATIC",
-          "decimals": 18
-        },
         "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
           "name": "USD Coin",
           "logo": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
