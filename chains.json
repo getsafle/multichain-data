@@ -48,7 +48,7 @@
       {
         "network": "sepolia",
         "rpc": "https://sepolia.infura.io/v3/${INFURA_API_KEY}",
-        "chainId": 420,
+        "chainId": 11155111,
         "explorer": "https://sepolia.etherscan.io",
         "nativeCurrency": "Sepolia Ether",
         "symbol": "ETH",
