@@ -44,6 +44,15 @@
         "nativeCurrency": "Goerli Ether",
         "symbol": "ETH",
         "imageURL": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+      },
+      {
+        "network": "sepolia",
+        "rpc": "https://sepolia.infura.io/v3/${INFURA_API_KEY}",
+        "chainId": 420,
+        "explorer": "https://sepolia.etherscan.io",
+        "nativeCurrency": "Sepolia Ether",
+        "symbol": "ETH",
+        "imageURL": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
       }
     ],
     "polygon": [
