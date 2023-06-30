@@ -5,7 +5,7 @@
             "COIN": {
                 "name": "Ether",
                 "symbol": "ETH",
-                "logo": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+                "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/ETH.png"
             },
             "CONTRACT_MAP": {
                 "0xEd04915c23f00A313a544955524EB7DBD823143d": {
@@ -1187,7 +1187,7 @@
                 },
                 "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828": {
                     "name": "UMA",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/UMA.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/UMA.png",
                     "erc20": true,
                     "symbol": "UMA",
                     "decimals": 18
@@ -1418,14 +1418,14 @@
                 },
                 "0xDDD460bBD9F79847ea08681563e8A9696867210C": {
                     "name": "Spendcoin",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/spnd.png",
+                    "logo": "https://etherscan.io/token/images/spendcoin_32.png",
                     "erc20": true,
                     "symbol": "SPND",
                     "decimals": 18
                 },
                 "0x27054b13b1B798B345b591a4d22e6562d47eA75a": {
                     "name": "AirSwap Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/AST.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/AST.png",
                     "erc20": true,
                     "symbol": "AST",
                     "decimals": 4
@@ -1467,7 +1467,7 @@
                 },
                 "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466": {
                     "name": "Aion Network",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/Aion.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/AION.png",
                     "erc20": true,
                     "symbol": "AION",
                     "decimals": 8
@@ -1495,14 +1495,14 @@
                 },
                 "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa": {
                     "name": "dutyof.care Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/dutyof.care-square.png",
+                    "logo": "https://etherscan.io/token/images/vdoc_28.png",
                     "erc20": true,
                     "symbol": "VDOC",
                     "decimals": 18
                 },
                 "0x168296bb09e24A88805CB9c33356536B980D3fC5": {
                     "name": "Rhoc",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/rchain.png",
+                    "logo": "https://etherscan.io/token/images/rchain.png",
                     "erc20": true,
                     "symbol": "RHOC",
                     "decimals": 8
@@ -1523,7 +1523,7 @@
                 },
                 "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07": {
                     "name": "OmiseGO",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/omg.jpg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/OMG.png",
                     "erc20": true,
                     "symbol": "OMG",
                     "decimals": 18
@@ -1537,21 +1537,21 @@
                 },
                 "0x4162178B78D6985480A308B2190EE5517460406D": {
                     "name": "Colu Local Network",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/cln.png",
+                    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2753.png",
                     "erc20": true,
                     "symbol": "CLN",
                     "decimals": 18
                 },
                 "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC": {
                     "name": "Storj",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/storj.jpg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/STORJ.png",
                     "erc20": true,
                     "symbol": "STORJ",
                     "decimals": 8
                 },
                 "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6": {
                     "name": "Zoracles",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/ZORA.svg",
+                    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7826.png",
                     "erc20": true,
                     "symbol": "ZORA",
                     "decimals": 9
@@ -1607,7 +1607,7 @@
                 },
                 "0xB563300A3BAc79FC09B93b6F84CE0d4465A2AC27": {
                     "name": "RedCab",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/redcab.png",
+                    "logo": "https://etherscan.io/token/images/redcab_28.png",
                     "erc20": true,
                     "symbol": "REDC",
                     "decimals": 18
@@ -1621,7 +1621,7 @@
                 },
                 "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB": {
                     "name": "AppCoins",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/appcoins.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/APPC.png",
                     "erc20": true,
                     "decimals": 18,
                     "symbol": "APPC"
@@ -1691,7 +1691,7 @@
                 },
                 "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d": {
                     "name": "Crypto Kitties",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/CryptoKitties-Kitty-13733.svg",
+                    "logo": "https://etherscan.io/token/images/cryptokitties_28.png?v=1",
                     "erc20": false,
                     "erc721": true,
                     "symbol": "CK",
@@ -1713,7 +1713,7 @@
                 },
                 "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892": {
                     "name": "Melon",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/mln.jpg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/MLN.png",
                     "erc20": true,
                     "symbol": "MLN",
                     "decimals": 18
@@ -1734,7 +1734,7 @@
                 },
                 "0xeAb43193CF0623073Ca89DB9B712796356FA7414": {
                     "name": "GOLDX",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/goldx.png",
+                    "logo": "https://etherscan.io/token/images/goldx_28.png",
                     "erc20": true,
                     "symbol": "GOLDX",
                     "decimals": 18
@@ -1804,14 +1804,14 @@
                 },
                 "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C": {
                     "name": "Bancor Network Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/bancor.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/BNT.png",
                     "erc20": true,
                     "symbol": "BNT",
                     "decimals": 18
                 },
                 "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9": {
                     "name": "Lunyr Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/lun.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/LUN.png",
                     "erc20": true,
                     "symbol": "LUN",
                     "decimals": 18
@@ -1846,7 +1846,7 @@
                 },
                 "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C": {
                     "name": "Token-as-a-Service",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/taas-ico.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/TAAS.png",
                     "erc20": true,
                     "symbol": "TAAS",
                     "decimals": 6
@@ -1860,7 +1860,7 @@
                 },
                 "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c": {
                     "name": "Edgeless",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/edgeless.jpg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/EDG.png",
                     "erc20": true,
                     "symbol": "EDG",
                     "decimals": 0
@@ -1881,14 +1881,14 @@
                 },
                 "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607": {
                     "name": "Swarm City Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/swt.jpg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/SWT.png",
                     "erc20": true,
                     "symbol": "SWT",
                     "decimals": 18
                 },
                 "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B": {
                     "name": "Trustcoin",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/trustcoin.jpg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/TRST.png",
                     "erc20": true,
                     "symbol": "TRST",
                     "decimals": 6
@@ -1951,7 +1951,7 @@
                 },
                 "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A": {
                     "name": "Digix",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/DGD.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/DGD.png",
                     "erc20": true,
                     "symbol": "DGD",
                     "decimals": 9
@@ -1993,7 +1993,7 @@
                 },
                 "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428": {
                     "name": "Mainframe Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/Mainframe.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/MFT.png",
                     "erc20": true,
                     "symbol": "MFT",
                     "decimals": 18
@@ -2119,7 +2119,7 @@
                 },
                 "0x9a642d6b3368ddc662CA244bAdf32cDA716005BC": {
                     "name": "Qtum",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/qtum_28.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/QTUM.png",
                     "erc20": true,
                     "decimals": 18,
                     "symbol": "QTUM"
@@ -2189,7 +2189,7 @@
                 },
                 "0x2af47a65da8CD66729b4209C22017d6A5C2d2400": {
                     "name": "StandardBounties",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/StandardBounties.png"
+                    "logo": "https://avatars.githubusercontent.com/u/37050912?s=48&v=4"
                 },
                 "0xF03f8D65BaFA598611C3495124093c56e8F638f0": {
                     "name": "Viewly",
@@ -2200,7 +2200,7 @@
                 },
                 "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2": {
                     "name": "Wrapped Ether",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/weth.png",
+                    "logo": "https://etherscan.io/token/images/weth_28.png",
                     "erc20": true,
                     "symbol": "WETH",
                     "decimals": 18
@@ -2305,7 +2305,7 @@
                 },
                 "0x42d6622deCe394b54999Fbd73D108123806f6a18": {
                     "name": "SPANK",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/SPANK.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/SPANK.png",
                     "erc20": true,
                     "symbol": "SPANK",
                     "decimals": 18
@@ -2361,7 +2361,7 @@
                 },
                 "0xb5A5F22694352C15B00323844aD545ABb2B11028": {
                     "name": "ICON",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/icon-icx-logo.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/ICX.png",
                     "erc20": true,
                     "symbol": "ICX",
                     "decimals": 18
@@ -2382,7 +2382,7 @@
                 },
                 "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a": {
                     "name": "Populous",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/FEATURED.POP_.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/PPT.png",
                     "erc20": true,
                     "symbol": "PPT",
                     "decimals": 8
@@ -2403,14 +2403,14 @@
                 },
                 "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB": {
                     "name": "Mithril",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/mithril-featured.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/MITH.png",
                     "erc20": true,
                     "symbol": "MITH",
                     "decimals": 18
                 },
                 "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74": {
                     "name": "Walton",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/waltonchain.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/WTC.png",
                     "erc20": true,
                     "symbol": "WTC",
                     "decimals": 18
@@ -2592,7 +2592,7 @@
                 },
                 "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b": {
                     "name": "Crypto.com Chain",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/CRO.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/CRO.png",
                     "erc20": true,
                     "symbol": "CRO",
                     "decimals": 8
@@ -2613,7 +2613,7 @@
                 },
                 "0x58b6A8A3302369DAEc383334672404Ee733aB239": {
                     "name": "Livepeer",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/livepeer.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/LPT.png",
                     "erc20": true,
                     "symbol": "LPT",
                     "decimals": 18
@@ -2627,7 +2627,7 @@
                 },
                 "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2": {
                     "name": "HoloToken",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/holotoken.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/HOT.png",
                     "erc20": true,
                     "symbol": "HOT",
                     "decimals": 18
@@ -2641,21 +2641,21 @@
                 },
                 "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e": {
                     "name": "AELF",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/aelf.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/ELF.png",
                     "erc20": true,
                     "symbol": "ELF",
                     "decimals": 18
                 },
                 "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022": {
                     "name": "Wax",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/wax.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/WAX.png",
                     "erc20": true,
                     "symbol": "WAX",
                     "decimals": 8
                 },
                 "0x595832F8FC6BF59c85C527fEC3740A1b7a361269": {
                     "name": "PowerLedger",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/power.png",
+                    "logo": "https://etherscan.io/token/images/powerledger_28_2.png",
                     "erc20": true,
                     "symbol": "POWR",
                     "decimals": 6
@@ -2684,7 +2684,7 @@
                 },
                 "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26": {
                     "name": "Origin Protocol",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/originprotocol.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/OGN.png",
                     "erc20": true,
                     "symbol": "OGN",
                     "decimals": 18
@@ -2741,7 +2741,7 @@
                 },
                 "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9": {
                     "name": "Neutral Dollar",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/neutraldollar.png",
+                    "logo": "https://etherscan.io/token/images/neutral_28.png",
                     "erc20": true,
                     "symbol": "NUSD",
                     "decimals": 6
@@ -2805,7 +2805,7 @@
                 },
                 "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0": {
                     "name": "Matic Network Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/matic-network-logo.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/MATIC.png",
                     "erc20": true,
                     "symbol": "MATIC",
                     "decimals": 18
@@ -2917,7 +2917,7 @@
                 },
                 "0x0Ae055097C6d159879521C384F1D2123D1f195e6": {
                     "name": "STAKE Token",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/stake.png",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/STAKE.png",
                     "erc20": true,
                     "symbol": "STAKE",
                     "decimals": 18
@@ -3302,7 +3302,7 @@
                 },
                 "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421": {
                     "name": "Vesper",
-                    "logo": "https://raw.githubusercontent.com/MetaMask/contract-metadata/master/images/Vesper-VSP-Token.svg",
+                    "logo": "https://etherscan.io/token/images/vesperfinance_32.png",
                     "erc20": true,
                     "symbol": "VSP",
                     "decimals": 18
@@ -3727,7 +3727,8 @@
                     "name": "Wrapped Decentraland MANA",
                     "erc20": true,
                     "symbol": "WMANA",
-                    "decimals": 18
+                    "decimals": 18,
+                    "logo": "https://etherscan.io/token/images/decentraland_32.png?v=1"
                 },
                 "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3": {
                     "name": "Bitfinex LEO Token",
@@ -3790,70 +3791,70 @@
             "CONTRACT_MAP": {
                 "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
                     "name": "Wrapped Ether",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+                    "logo": "https://zengo.com/wp-content/uploads/wETH_desktop.svg",
                     "erc20": true,
                     "symbol": "WETH",
                     "decimals": 18
                 },
                 "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
                     "name": "USD Coin",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/USDC.png",
                     "erc20": true,
                     "symbol": "USDC",
                     "decimals": 6
                 },
                 "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
                     "name": "Tether USD",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/USDT.png",
                     "erc20": true,
                     "symbol": "USDT",
                     "decimals": 6
                 },
                 "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
                     "name": "Dai Stablecoin",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/DAI.png",
                     "erc20": true,
                     "symbol": "DAI",
                     "decimals": 18
                 },
                 "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
                     "name": "Aave",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/aave.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/AAVE.png",
                     "erc20": true,
                     "symbol": "AAVE",
                     "decimals": 18
                 },
                 "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
                     "name": "ChainLink Token",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/link.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/LINK.png",
                     "erc20": true,
                     "symbol": "LINK",
                     "decimals": 18
                 },
                 "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
                     "name": "Wrapped BTC",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/WBTC.png",
                     "erc20": true,
                     "symbol": "WBTC",
                     "decimals": 8
                 },
                 "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
                     "name": "Uniswap",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/uni.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/UNI.png",
                     "erc20": true,
                     "symbol": "UNI",
                     "decimals": 18
                 },
                 "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a": {
                     "name": "SushiToken",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/sushi.svg",
+                    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
                     "erc20": true,
                     "symbol": "SUSHI",
                     "decimals": 18
                 },
                 "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f": {
                     "name": "Quickswap",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/quick.svg",
+                    "logo": "https://assets.coingecko.com/coins/images/13970/small/quick.png?1676951177",
                     "erc20": true,
                     "symbol": "QUICK",
                     "decimals": 18
@@ -3867,14 +3868,14 @@
                 },
                 "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32": {
                     "name": "Telcoin",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/tel.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/TEL.png",
                     "erc20": true,
                     "symbol": "TEL",
                     "decimals": 2
                 },
                 "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3": {
                     "name": "Balancer",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/bal.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/BAL.png",
                     "erc20": true,
                     "symbol": "BAL",
                     "decimals": 18
@@ -3895,7 +3896,7 @@
                 },
                 "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7": {
                     "name": "Binance USD",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/busd.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/BUSD.png",
                     "erc20": true,
                     "symbol": "BUSD",
                     "decimals": 18
@@ -3919,7 +3920,7 @@
             "CONTRACT_MAP": {
                 "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56": {
                     "name": "Binance-Peg BUSD Token",
-                    "logo": "https://wallet-asset.matic.network/img/tokens/busd.svg",
+                    "logo": "https://safle-crypto-logos-48x48.s3.jp-tok.cloud-object-storage.appdomain.cloud/BUSD.png",
                     "erc20": true,
                     "symbol": "BUSD",
                     "decimals": 18
