@@ -140,7 +140,7 @@
         "network": "bsc-mainnet",
         "rpc": "https://bsc-dataseed.binance.org",
         "chainId": 56,
-        "explorer": "https://testnet.bscscan.com",
+        "explorer": "https://bscscan.com",
         "nativeCurrency": "BNB",
         "symbol": "BNB",
         "imageURL": "https://assets.coingecko.com/coins/images/13804/large/Binnace.png"
@@ -149,10 +149,64 @@
         "network": "testnet",
         "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
         "chainId": 97,
-        "explorer": "https://bscscan.com",
+        "explorer": "https://testnet.bscscan.com",
         "nativeCurrency": "BNB",
         "symbol": "BNB",
         "imageURL": "https://assets.coingecko.com/coins/images/13804/large/Binnace.png"
+      }
+    ],
+    "mantle": [
+      {
+        "network": "mantle-mainnet"
+      },
+      {
+        "network": "testnet",
+        "rpc": "https://rpc.testnet.mantle.xyz",
+        "chainId": 5001,
+        "explorer": "https://explorer.testnet.mantle.xyz",
+        "nativeCurrency": "MNT",
+        "symbol": "MNT",
+        "imageURL": "https://assets.coingecko.com/coins/images/13804/large/Binnace.png"
+      }
+    ],
+    "optimism": [
+      {
+        "network": "optimism-mainnet",
+        "rpc": "https://optimism-mainnet.infura.io/v3/${INFURA_API_KEY}",
+        "chainId": 10,
+        "explorer": "https://optimistic.etherscan.io",
+        "nativeCurrency": "OP",
+        "symbol": "OP",
+        "imageURL": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png"
+      },
+      {
+        "network": "goerli",
+        "rpc": "https://optimism-goerli.infura.io/v3/${INFURA_API_KEY}",
+        "chainId": 420,
+        "explorer": "https://goerli-optimism.etherscan.io",
+        "nativeCurrency": "OP",
+        "symbol": "OP",
+        "imageURL": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png"
+      }
+    ],
+    "arbitrum": [
+      {
+        "network": "arbitrum-mainnet",
+        "rpc": "https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}",
+        "chainId": 42161,
+        "explorer": "https://arbiscan.io",
+        "nativeCurrency": "ARB",
+        "symbol": "ARB",
+        "imageURL": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg"
+      },
+      {
+        "network": "goerli",
+        "rpc": "https://arbitrum-goerli.infura.io/v3/${INFURA_API_KEY}",
+        "chainId": 421613,
+        "explorer": "https://testnet.arbiscan.io",
+        "nativeCurrency": "ARB",
+        "symbol": "ARB",
+        "imageURL": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg"
       }
     ]
   }
