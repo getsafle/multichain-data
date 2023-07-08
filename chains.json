@@ -180,7 +180,7 @@
         "imageURL": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png"
       },
       {
-        "network": "testnet",
+        "network": "goerli",
         "rpc": "https://optimism-goerli.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 420,
         "explorer": "https://goerli-optimism.etherscan.io",
@@ -200,7 +200,7 @@
         "imageURL": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg"
       },
       {
-        "network": "testnet",
+        "network": "goerli",
         "rpc": "https://arbitrum-goerli.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 421613,
         "explorer": "https://testnet.arbiscan.io",
