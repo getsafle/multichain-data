@@ -181,8 +181,8 @@
         "rpc": "https://optimism-mainnet.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 10,
         "explorer": "https://optimistic.etherscan.io",
-        "nativeCurrency": "OP",
-        "symbol": "OP",
+        "nativeCurrency": "Ether",
+        "symbol": "ETH",
         "imageURL": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png"
       },
       {
@@ -190,8 +190,8 @@
         "rpc": "https://optimism-goerli.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 420,
         "explorer": "https://goerli-optimism.etherscan.io",
-        "nativeCurrency": "OP",
-        "symbol": "OP",
+        "nativeCurrency": "Ether",
+        "symbol": "ETH",
         "imageURL": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png"
       }
     ],
@@ -201,8 +201,8 @@
         "rpc": "https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 42161,
         "explorer": "https://arbiscan.io",
-        "nativeCurrency": "ARB",
-        "symbol": "ARB",
+        "nativeCurrency": "Ether",
+        "symbol": "ETH",
         "imageURL": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg"
       },
       {
@@ -210,8 +210,8 @@
         "rpc": "https://arbitrum-goerli.infura.io/v3/${INFURA_API_KEY}",
         "chainId": 421613,
         "explorer": "https://testnet.arbiscan.io",
-        "nativeCurrency": "ARB",
-        "symbol": "ARB",
+        "nativeCurrency": "Ether",
+        "symbol": "ETH",
         "imageURL": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg"
       }
     ]
